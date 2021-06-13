@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Request Payload on Wang Yong Tao</title>
+    <link>https://wangyongtao.github.io/cn/tags/request-payload/</link>
+    <description>Recent content in Request Payload on Wang Yong Tao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
+    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 20 Mar 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://wangyongtao.github.io/cn/tags/request-payload/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>HTTP 表单提交中 Request Payload 和 FormData 有什么区别</title>
+        <link>https://wangyongtao.github.io/cn/posts/request-payload-vs-formdata/</link>
+        <pubDate>Sat, 20 Mar 2021 12:00:06 +0900</pubDate>
+        <author>wangtom365 # qq.com (WYT)</author>
+        <atom:modified>Sat, 20 Mar 2021 12:00:06 +0900</atom:modified>
+        <guid>https://wangyongtao.github.io/cn/posts/request-payload-vs-formdata/</guid>
+        <description>HTTP 表单提交中 Request Payload 和 FormData 有什么区别？ FormData 和 Request Payload 是浏览器传给服务端接口的两种格式，这两种方式浏览器是通过 Content-Type 来进行区分的。 如果是 enctype=&amp;ldquo;application/x-www-form-urlencoded&amp;rdquo; 或 enctype=&amp;ldquo;multipart/form-data&amp;rdquo; 的话，则为 FormData 方式</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="https://wangyongtao.github.io/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Web</category>
+            
+          
+            
+              <category>Request Payload</category>
+            
+          
+            
+              <category>FormData</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

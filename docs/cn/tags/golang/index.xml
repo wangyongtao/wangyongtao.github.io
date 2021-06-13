@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Golang on Wang Yong Tao</title>
+    <link>https://wangyongtao.github.io/cn/tags/golang/</link>
+    <description>Recent content in Golang on Wang Yong Tao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
+    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 19 Mar 2021 17:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://wangyongtao.github.io/cn/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Golang中string和int类型相互转换</title>
+        <link>https://wangyongtao.github.io/cn/posts/golang%E4%B8%ADstring%E5%92%8Cint%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</link>
+        <pubDate>Fri, 19 Mar 2021 17:00:00 +0800</pubDate>
+        <author>wangtom365 # qq.com (WYT)</author>
+        <atom:modified>Fri, 19 Mar 2021 17:00:00 +0800</atom:modified>
+        <guid>https://wangyongtao.github.io/cn/posts/golang%E4%B8%ADstring%E5%92%8Cint%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</guid>
+        <description>Golang中string和int类型相互转换 string 转成 int string 转成 int： 1 int, err := strconv.Atoi(string) string 转成 int64： 1 int64, err := strconv.ParseInt(string, 10, 64) string 转成 uint64： 1 uint64, err := strconv.ParseUint(string,</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="https://wangyongtao.github.io/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Go语言第一个HelloWorld程序</title>
+        <link>https://wangyongtao.github.io/cn/posts/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # qq.com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>https://wangyongtao.github.io/cn/posts/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</guid>
+        <description>Go语言第一个HelloWorld程序 Go，又称 Golang，是一个Google于2009年11月开源的编译型编程语言。 目前， Go语言最新版</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="https://wangyongtao.github.io/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
