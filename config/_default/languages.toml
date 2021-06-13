@@ -1,0 +1,20 @@
+[en]
+  title = "Wang Yong Tao"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[ko]
+  title = "Wang Yong Tao"
+  languageName = "Korean한국어"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/ko"
+
+[cn]
+  title = "Wang Yong Tao"
+  languageName = "中文Chinese"
+  weight = 3
+  languagedir = "ltr"
+  contentdir = "content/cn"
