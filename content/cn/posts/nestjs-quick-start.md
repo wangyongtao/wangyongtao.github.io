@@ -1,3 +1,22 @@
+---
+title: NestJS快速入门-安装与配置
+date: 2018-12-18T17:00:00+08:00
+# # description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: true
+author: WYT
+authorEmoji: 🧑
+tags:
+- NestJS
+categories:
+- NestJS
+- QuickStart
+series:
+- NestJS Guide
+image: images/common/www-1.jpeg
+---
 
 Nest (NestJS)是一个用于构建高效、可伸缩的 Node.js 服务器端框架。
 
@@ -415,15 +434,15 @@ $ curl localhost:3000/api
 
 ### 参考文献 References
 
-https://blog.csdn.net/cnwyt
-https://nodejs.org/en/download/  
-https://docs.nestjs.com/first-steps
+https://blog.csdn.net/cnwyt  
+https://nodejs.org/en/download/   
+https://docs.nestjs.com/first-steps 
 
 ### 更新记录 Change log
 
-2018.12.18 新增本文档，使用 nestjs 5.7.1 版本。
-2019.06.13 修改内容，并更新 nestjs 至 6.5 版本。
-2020.12.01 完善内容，并更新 nestjs 至 7.5 版本。
+2018-12-18 新增本文档，使用 nestjs 5.7.1 版本。
+2019-06-13 修改内容，并更新 nestjs 至 6.5 版本。
+2020-12-01 完善内容，并更新 nestjs 至 7.5 版本。
 
 > 感谢阅读，如有问题请留言。
 

@@ -1,7 +1,7 @@
 ---
 title: PHP与Node中使用bcrypt算法存储密码
 date: 2019-08-19T17:00:00+08:00
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+# # description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 draft: false
 hideToc: false
 enableToc: true
@@ -17,7 +17,7 @@ categories:
 - syntax
 series:
 - Themes Guide
-image: images/common/php.jpeg
+image: images/common/php-1.jpeg
 ---
 
 在软件开发过程中，对于如密码这样的信息，我们不能直接以明文的方式存储在数据库中

@@ -1,7 +1,7 @@
 ---
 title: HTTP 表单提交中 Request Payload 和 FormData 有什么区别
 date: 2021-03-20T12:00:06+09:00
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+# description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 draft: false
 hideToc: false
 enableToc: true

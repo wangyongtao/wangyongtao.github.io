@@ -1,7 +1,7 @@
 ---
 title: 第一个c语言程序
 date: 2019-08-19T17:00:00+08:00
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+# description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 draft: false
 hideToc: false
 enableToc: true
