@@ -41,25 +41,114 @@ id, name, remark
 
 使用 "encoding/csv"
 
+写入 csv 文件，可以使用 `w.Write()`与`w.Flush()`方法 或 `w.WriteAll()` 方法。
+
+
 直接看代码:
 
 ```c
+package main
 
+import (
+	"encoding/csv"
+	"log"
+	"os"
+)
 
+func main() {
+
+	// 创建文件
+	f, err := os.Create("test.csv")
+	if err != nil {
+		panic(err)
+	}
+	defer f.Close()
+
+	// 写入UTF-8 BOM
+	f.WriteString("\xEF\xBB\xBF") // 写入UTF-8 BOM
+
+	w := csv.NewWriter(f)
+	data := [][]string{
+		{"1", "安徽", "合肥,霸都", "0551"},
+		{"2", "北京", "北京,帝都", "010"},
+		{"3", "浙江", "杭州,电商之都", "0571"},
+		{"4", "上海", "上海,魔都", "021"},
+	}
+	// 使用 w.WriteAll() 写入多条数据
+	// 该方法会内部之间调用 w.Flush()，之间写入数据
+	w.WriteAll(data)
+	// w.Flush()
+	if err := w.Error(); err != nil {
+		log.Fatalln("=> error writing csv:", err)
+	}
+}
 ```
 
-可以看到代码中有个生成BOM头的操作，这是为啥呢？  
+可以看到代码中有个写入 UTF-8 BOM 头的操作，这是为啥呢？  
 
 如在Windows环境中编写代码，总是选择将代码文件保存成 "无BOM头的UTF8" 格式(比如用Notepad++文本编辑器时)。
 但是因为历史原因，Windows下的文本文件需使用 "有BOM头的UTF8" 格式，否则Excel打开就乱码了。  
 
 ### 如何读取CSV文件？
  
+读取 csv 文件，可以使用 `r.Read()` 或 `r.ReadAll()` 方法。
+
 使用示例:
 
 ```php
-// 示例：data为导出CSV数据
+package main
 
+import (
+	"encoding/csv"
+	"io"
+	"log"
+	"os"
+)
+
+func main() {
+
+	log.Println("-- encoding/csv --")
+
+	// (1)从字符串中读取csv格式数据
+	// 	in := `
+	// first_name,last_name,username
+	// "Rob","Pike",rob
+	// Ken,Thompson,ken
+	// "Robert","Griesemer","gri"
+	// `
+	// r := csv.NewReader(strings.NewReader(in))
+
+	// (2)从文件中读取csv格式数据
+	// 打开csv文件
+	fs, err := os.Open("test.csv")
+	if err != nil {
+		log.Fatalf("can not open the file, err is %+v", err)
+	}
+	defer fs.Close()
+	r := csv.NewReader(fs)
+
+	// 如果数据不多，可以一次读取所有内容
+	log.Println("===> 使用 r.Read() 单行读取: ")
+	for {
+		record, err := r.Read()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		log.Println("----->", record)
+	}
+
+	// 如果数据不多，可以一次读取所有内容
+	log.Println("===> 使用 r.ReadAll() 批量读取: ")
+	records, err := r.ReadAll()
+	if err != nil {
+		log.Fatal(err)
+	}
+	log.Print(records)
+}
 ```
 
 ### 用到的 Package csv 接口
@@ -90,7 +179,7 @@ type Writer
     func (w *Writer) WriteAll(records [][]string) error
 ```
 
-参考链接
+### 参考链接
 
 https://golang.google.cn/pkg/encoding/csv/
 

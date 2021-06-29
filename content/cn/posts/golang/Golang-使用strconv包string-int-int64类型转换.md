@@ -20,7 +20,7 @@ image: images/common/golang-1.jpeg
 
 Go不会对数据进行隐式的类型转换，只能手动去执行转换操作。
 
-strconv包提供了简单数据类型之间的类型转换功能。
+strconv 包提供了简单数据类型之间的类型转换功能。
 
 以下是常用的一些转换函数： 
 
@@ -50,6 +50,7 @@ fmt.Printf("--> %T, %v\n", s10, s10)
 ```
 
 ## 将 string 类型转成 int 类型 (Atoi)
+
 Atoi: 将 string 类型转成 int 类型
 
 ```js
@@ -63,6 +64,7 @@ if s, err := strconv.Atoi(num2); err == nil {
 ```
 
 ## 将 string 类型转换到 int64 类型: 
+
 将 string 类型转换到 int64 类型
 
 ```js
@@ -78,7 +80,6 @@ if s, err := strconv.ParseInt(v64, 10, 64); err == nil {
     // 输出: int64, -3546343826724305832
 }
 ```
-
 
 ### 代码实例
 
