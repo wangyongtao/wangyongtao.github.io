@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Wang Yong Tao</title>
-    <link>https://wangyongtao.github.io/ko/archive/</link>
+    <link>http://localhost:1313/ko/archive/</link>
     <description>Recent content in Archive on Wang Yong Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
-    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://wangyongtao.github.io/ko/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/ko/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

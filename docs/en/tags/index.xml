@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Wang Yong Tao</title>
-    <link>https://wangyongtao.github.io/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on Wang Yong Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
-    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="https://wangyongtao.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>shortcode</title>
-        <link>https://wangyongtao.github.io/en/tags/shortcode/</link>
+        <title>Index</title>
+        <link>http://localhost:1313/en/tags/index/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/shortcode/</guid>
+        <guid>http://localhost:1313/en/tags/index/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -39,12 +39,30 @@
       </item>
       
       <item>
-        <title>css</title>
-        <link>https://wangyongtao.github.io/en/tags/css/</link>
+        <title>Shortcode</title>
+        <link>http://localhost:1313/en/tags/shortcode/</link>
+        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        
+        <guid>http://localhost:1313/en/tags/shortcode/</guid>
+        <description></description>
+        
+        <dc:creator>WYT</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Css</title>
+        <link>http://localhost:1313/en/tags/css/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/css/</guid>
+        <guid>http://localhost:1313/en/tags/css/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -57,12 +75,12 @@
       </item>
       
       <item>
-        <title>html</title>
-        <link>https://wangyongtao.github.io/en/tags/html/</link>
+        <title>Html</title>
+        <link>http://localhost:1313/en/tags/html/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/html/</guid>
+        <guid>http://localhost:1313/en/tags/html/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -75,12 +93,12 @@
       </item>
       
       <item>
-        <title>markdown</title>
-        <link>https://wangyongtao.github.io/en/tags/markdown/</link>
+        <title>Markdown</title>
+        <link>http://localhost:1313/en/tags/markdown/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/markdown/</guid>
+        <guid>http://localhost:1313/en/tags/markdown/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -93,12 +111,12 @@
       </item>
       
       <item>
-        <title>themes</title>
-        <link>https://wangyongtao.github.io/en/tags/themes/</link>
+        <title>Themes</title>
+        <link>http://localhost:1313/en/tags/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/themes/</guid>
+        <guid>http://localhost:1313/en/tags/themes/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -111,12 +129,12 @@
       </item>
       
       <item>
-        <title>privacy</title>
-        <link>https://wangyongtao.github.io/en/tags/privacy/</link>
+        <title>Privacy</title>
+        <link>http://localhost:1313/en/tags/privacy/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/privacy/</guid>
+        <guid>http://localhost:1313/en/tags/privacy/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -129,12 +147,12 @@
       </item>
       
       <item>
-        <title>shortcodes</title>
-        <link>https://wangyongtao.github.io/en/tags/shortcodes/</link>
+        <title>Shortcodes</title>
+        <link>http://localhost:1313/en/tags/shortcodes/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/shortcodes/</guid>
+        <guid>http://localhost:1313/en/tags/shortcodes/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -147,12 +165,12 @@
       </item>
       
       <item>
-        <title>hugo</title>
-        <link>https://wangyongtao.github.io/en/tags/hugo/</link>
+        <title>Hugo</title>
+        <link>http://localhost:1313/en/tags/hugo/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/hugo/</guid>
+        <guid>http://localhost:1313/en/tags/hugo/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -165,12 +183,12 @@
       </item>
       
       <item>
-        <title>amoji</title>
-        <link>https://wangyongtao.github.io/en/tags/amoji/</link>
+        <title>Amoji</title>
+        <link>http://localhost:1313/en/tags/amoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/amoji/</guid>
+        <guid>http://localhost:1313/en/tags/amoji/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -183,12 +201,12 @@
       </item>
       
       <item>
-        <title>bamoji</title>
-        <link>https://wangyongtao.github.io/en/tags/bamoji/</link>
+        <title>Bamoji</title>
+        <link>http://localhost:1313/en/tags/bamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/bamoji/</guid>
+        <guid>http://localhost:1313/en/tags/bamoji/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -201,12 +219,12 @@
       </item>
       
       <item>
-        <title>emoji</title>
-        <link>https://wangyongtao.github.io/en/tags/emoji/</link>
+        <title>Emoji</title>
+        <link>http://localhost:1313/en/tags/emoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/emoji/</guid>
+        <guid>http://localhost:1313/en/tags/emoji/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -219,12 +237,12 @@
       </item>
       
       <item>
-        <title>gamoji</title>
-        <link>https://wangyongtao.github.io/en/tags/gamoji/</link>
+        <title>Gamoji</title>
+        <link>http://localhost:1313/en/tags/gamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/gamoji/</guid>
+        <guid>http://localhost:1313/en/tags/gamoji/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -237,12 +255,12 @@
       </item>
       
       <item>
-        <title>namoji</title>
-        <link>https://wangyongtao.github.io/en/tags/namoji/</link>
+        <title>Namoji</title>
+        <link>http://localhost:1313/en/tags/namoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/namoji/</guid>
+        <guid>http://localhost:1313/en/tags/namoji/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -255,30 +273,12 @@
       </item>
       
       <item>
-        <title>diagram</title>
-        <link>https://wangyongtao.github.io/en/tags/diagram/</link>
+        <title>Diagram</title>
+        <link>http://localhost:1313/en/tags/diagram/</link>
         <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/tags/diagram/</guid>
-        <description></description>
-        
-        <dc:creator>WYT</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>index</title>
-        <link>https://wangyongtao.github.io/en/tags/index/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
-        
-        <guid>https://wangyongtao.github.io/en/tags/index/</guid>
+        <guid>http://localhost:1313/en/tags/diagram/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>

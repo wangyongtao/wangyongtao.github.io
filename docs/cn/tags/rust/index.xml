@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Rust on Wang Yong Tao</title>
-    <link>https://wangyongtao.github.io/cn/tags/rust/</link>
+    <link>http://localhost:1313/cn/tags/rust/</link>
     <description>Recent content in Rust on Wang Yong Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
-    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 19 Aug 2019 17:00:00 +0800</lastBuildDate>
     
-        <atom:link href="https://wangyongtao.github.io/cn/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/cn/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>spring-rest-api</title>
-        <link>https://wangyongtao.github.io/cn/posts/rust-quick-start/</link>
+        <title>rust-quick-start</title>
+        <link>http://localhost:1313/cn/posts/rust-quick-start/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/rust-quick-start/</guid>
+        <guid>http://localhost:1313/cn/posts/rust-quick-start/</guid>
         <description>Rust 是一种静态类型的编译语言，满足了大多数用户使用 C 或 C++ 能够实现的目标。 Rust 语言是内存安全且与操作系统无关的，这意味着它可以在任何计算机上运行。</description>
         
         <dc:creator>WYT</dc:creator>
@@ -61,16 +61,56 @@
       </item>
       
       <item>
-        <title>第一个c语言程序</title>
-        <link>https://wangyongtao.github.io/cn/posts/c-quick-start/</link>
+        <title>URL链接中的utm_source、utm_medium简析</title>
+        <link>http://localhost:1313/cn/posts/url%E9%93%BE%E6%8E%A5%E4%B8%AD%E7%9A%84utm_source%E7%AE%80%E6%9E%90/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/c-quick-start/</guid>
+        <guid>http://localhost:1313/cn/posts/url%E9%93%BE%E6%8E%A5%E4%B8%AD%E7%9A%84utm_source%E7%AE%80%E6%9E%90/</guid>
+        <description>URL链接中的utm_source,utm_medium简析 UTM stood for the Urchin Traffic Monitor, which was part of a software called “Urchin WebAnalytics Software” released in 1998. http://wang123.net/ads?utm_source=cost&amp;utm_campaign=v2ex&amp;utm_medium=display&amp;utm_content=shengji 每个参数的</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/www-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>第一个c语言程序</title>
+        <link>http://localhost:1313/cn/posts/c-quick-start/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/c-quick-start/</guid>
         <description>C语言是一门面向过程的的通用程序设计语言，广泛应用于底层开发。 C语言是普适性最强的一种计算机程序编辑语言，它不仅可以发挥出高级编程语言的功用</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/clang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/clang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

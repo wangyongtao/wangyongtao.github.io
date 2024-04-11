@@ -6,26 +6,27 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>index on Wang Yong Tao</title>
-    <link>https://wangyongtao.github.io/cn/tags/index/</link>
-    <description>Recent content in index on Wang Yong Tao</description>
+    <title>Index on Wang Yong Tao</title>
+    <link>http://localhost:1313/cn/tags/index/</link>
+    <description>Recent content in Index on Wang Yong Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
-    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Jun 2021 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://wangyongtao.github.io/cn/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/cn/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>文章 Posts</title>
-        <link>https://wangyongtao.github.io/cn/posts/</link>
-        <pubDate>Sat, 20 Mar 2021 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <link>http://localhost:1313/cn/posts/</link>
+        <pubDate>Thu, 17 Jun 2021 12:00:06 +0900</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/cn/posts/</guid>
+        <guid>http://localhost:1313/cn/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

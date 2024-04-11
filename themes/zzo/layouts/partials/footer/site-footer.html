@@ -26,13 +26,18 @@
                         {{ $leftString | markdownify }}<a rel="license" href="{{ $.Site.Params.copyrightOptions.copyrightLink }}">{{ $.Site.Params.copyrightOptions.copyrightLinkText }}</a>{{ $rightString | markdownify }}
                     {{ end }}
                 {{ else }}
-                    {{ with $.Site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+                    {{ with $.Site.Copyright }} {{ replace . "{year}" now.Year | markdownify}}{{ end }}
                 {{ end }}
             </p>
         {{ end }}
 
         {{ if $.Param "showPoweredBy" }}
-            <p class="caption">Powered by <a href="https://gohugo.io/" target="_blank" rel="noreferrer">Hugo</a> and the <a href="https://github.com/zzossig/hugo-theme-zzo" target="_blank" rel="noreferrer">Zzo theme</a></p>
+            <p class="caption">
+                Powered by <a href="https://gohugo.io/" target="_blank" rel="noreferrer">Hugo</a> 
+                and the <a href="https://github.com/zzossig/hugo-theme-zzo" target="_blank" rel="noreferrer">Zzo theme</a>
+
+                BuildDate: {{ hugo.BuildDate }}
+            </p>
         {{ end }}
         
     </div> 

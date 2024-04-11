@@ -7,26 +7,26 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Wang Yong Tao</title>
-    <link>https://wangyongtao.github.io/en/categories/</link>
+    <link>http://localhost:1313/en/categories/</link>
     <description>Recent content in Categories on Wang Yong Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
-    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://wangyongtao.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>syntax</title>
-        <link>https://wangyongtao.github.io/en/categories/syntax/</link>
+        <title>Syntax</title>
+        <link>http://localhost:1313/en/categories/syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/categories/syntax/</guid>
+        <guid>http://localhost:1313/en/categories/syntax/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -39,12 +39,12 @@
       </item>
       
       <item>
-        <title>themes</title>
-        <link>https://wangyongtao.github.io/en/categories/themes/</link>
+        <title>Themes</title>
+        <link>http://localhost:1313/en/categories/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/categories/themes/</guid>
+        <guid>http://localhost:1313/en/categories/themes/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -57,12 +57,12 @@
       </item>
       
       <item>
-        <title>hugo</title>
-        <link>https://wangyongtao.github.io/en/categories/hugo/</link>
+        <title>Hugo</title>
+        <link>http://localhost:1313/en/categories/hugo/</link>
         <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/categories/hugo/</guid>
+        <guid>http://localhost:1313/en/categories/hugo/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -75,12 +75,12 @@
       </item>
       
       <item>
-        <title>diagram</title>
-        <link>https://wangyongtao.github.io/en/categories/diagram/</link>
+        <title>Diagram</title>
+        <link>http://localhost:1313/en/categories/diagram/</link>
         <pubDate>Mon, 18 Nov 2019 21:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/categories/diagram/</guid>
+        <guid>http://localhost:1313/en/categories/diagram/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>
@@ -93,12 +93,12 @@
       </item>
       
       <item>
-        <title>math</title>
-        <link>https://wangyongtao.github.io/en/categories/math/</link>
+        <title>Math</title>
+        <link>http://localhost:1313/en/categories/math/</link>
         <pubDate>Sat, 16 Nov 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         
-        <guid>https://wangyongtao.github.io/en/categories/math/</guid>
+        <guid>http://localhost:1313/en/categories/math/</guid>
         <description></description>
         
         <dc:creator>WYT</dc:creator>

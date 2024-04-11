@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Linux on Wang Yong Tao</title>
+    <link>http://localhost:1313/cn/tags/linux/</link>
+    <description>Recent content in Linux on Wang Yong Tao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 08 Jun 2021 17:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/cn/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Docker Quick Start</title>
+        <link>http://localhost:1313/cn/posts/linux/docker-quick-start/</link>
+        <pubDate>Tue, 08 Jun 2021 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Tue, 08 Jun 2021 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/linux/docker-quick-start/</guid>
+        <description>Docker Quick Start</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/docker-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Nginx-使用Expires缓存静态文件</title>
+        <link>http://localhost:1313/cn/posts/linux/nginx-%E4%BD%BF%E7%94%A8expires%E7%BC%93%E5%AD%98%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6/</link>
+        <pubDate>Thu, 13 Apr 2017 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 13 Apr 2017 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/linux/nginx-%E4%BD%BF%E7%94%A8expires%E7%BC%93%E5%AD%98%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6/</guid>
+        <description>Nginx-使用Expires缓存静态文件 The ngx_http_headers_module module allows adding the “Expires” and “Cache-Control” header fields, and arbitrary fields, to a response header. 1 2 3 4 Syntax: expires [modified] time; expires</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/nginx-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Nginx</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Linux-压力测试工具Siege安装与使用</title>
+        <link>http://localhost:1313/cn/posts/linux/linux-%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7siege%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Thu, 08 Sep 2016 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 08 Sep 2016 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/linux/linux-%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7siege%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+        <description>Linux-压力测试工具Siege安装与使用 Siege 是Linux/Unix下的一个WEB系统的压力测试工具。 Siege is an http load testing and benchmarking utility. 下载与安装: 下载地址</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/linux-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Siege</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

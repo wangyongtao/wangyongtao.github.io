@@ -7,30 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Databases on Wang Yong Tao</title>
-    <link>https://wangyongtao.github.io/cn/categories/databases/</link>
+    <link>http://localhost:1313/cn/categories/databases/</link>
     <description>Recent content in Databases on Wang Yong Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
-    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 19 Aug 2019 17:00:00 +0800</lastBuildDate>
     
-        <atom:link href="https://wangyongtao.github.io/cn/categories/databases/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/cn/categories/databases/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>PostgreSQL入门-安装与基本使用（Ubuntu）</title>
-        <link>https://wangyongtao.github.io/cn/posts/postgresql-quick-start/</link>
+        <link>http://localhost:1313/cn/posts/postgresql-quick-start/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/postgresql-quick-start/</guid>
+        <guid>http://localhost:1313/cn/posts/postgresql-quick-start/</guid>
         <description>PostgreSQL入门-安装与基本使用（Ubuntu） PostgreSQL 是一个免费的对象-关系数据库服务器(ORDBMS)，号称是 &amp;ldquo;世界上最先</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/postgresql-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/postgresql-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

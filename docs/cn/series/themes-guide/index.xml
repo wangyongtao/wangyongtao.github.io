@@ -7,30 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Themes Guide on Wang Yong Tao</title>
-    <link>https://wangyongtao.github.io/cn/series/themes-guide/</link>
+    <link>http://localhost:1313/cn/series/themes-guide/</link>
     <description>Recent content in Themes Guide on Wang Yong Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
-    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 20 Mar 2021 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://wangyongtao.github.io/cn/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/cn/series/themes-guide/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>HTTP 表单提交中 Request Payload 和 FormData 有什么区别</title>
-        <link>https://wangyongtao.github.io/cn/posts/request-payload-vs-formdata/</link>
+        <link>http://localhost:1313/cn/posts/request-payload-vs-formdata/</link>
         <pubDate>Sat, 20 Mar 2021 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Sat, 20 Mar 2021 12:00:06 +0900</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/request-payload-vs-formdata/</guid>
+        <guid>http://localhost:1313/cn/posts/request-payload-vs-formdata/</guid>
         <description>HTTP 表单提交中 Request Payload 和 FormData 有什么区别？ FormData 和 Request Payload 是浏览器传给服务端接口的两种格式，这两种方式浏览器是通过 Content-Type 来进行区分的。 如果是 enctype=&amp;ldquo;application/x-www-form-urlencoded&amp;rdquo; 或 enctype=&amp;ldquo;multipart/form-data&amp;rdquo; 的话，则为 FormData 方式</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -70,15 +70,15 @@
       
       <item>
         <title>Golang中string和int类型相互转换</title>
-        <link>https://wangyongtao.github.io/cn/posts/golang%E4%B8%ADstring%E5%92%8Cint%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</link>
+        <link>http://localhost:1313/cn/posts/golang/golang%E4%B8%ADstring%E5%92%8Cint%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</link>
         <pubDate>Fri, 19 Mar 2021 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Fri, 19 Mar 2021 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/golang%E4%B8%ADstring%E5%92%8Cint%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</guid>
+        <guid>http://localhost:1313/cn/posts/golang/golang%E4%B8%ADstring%E5%92%8Cint%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</guid>
         <description>Golang中string和int类型相互转换 string 转成 int string 转成 int： 1 int, err := strconv.Atoi(string) string 转成 int64： 1 int64, err := strconv.ParseInt(string, 10, 64) string 转成 uint64： 1 uint64, err := strconv.ParseUint(string,</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -110,15 +110,15 @@
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>https://wangyongtao.github.io/cn/posts/markdown-syntax/</link>
+        <link>http://localhost:1313/cn/posts/markdown-syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/markdown-syntax/</guid>
+        <guid>http://localhost:1313/cn/posts/markdown-syntax/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
         
         <dc:creator>Choi</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -161,16 +161,56 @@
       </item>
       
       <item>
-        <title>Go语言第一个HelloWorld程序</title>
-        <link>https://wangyongtao.github.io/cn/posts/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</link>
+        <title>Go语言基本语言与C语言对比</title>
+        <link>http://localhost:1313/cn/posts/golang/golang-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95go-vs-c/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</guid>
-        <description>Go语言第一个HelloWorld程序 Go，又称 Golang，是一个Google于2009年11月开源的编译型编程语言。 目前， Go语言最新版</description>
+        <guid>http://localhost:1313/cn/posts/golang/golang-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95go-vs-c/</guid>
+        <description>Go语言基本语言与C语言对比 C语言与Go语言简介 C 语言是一种面向过程式的编程语言。1972 年，为了移植与开发 UNIX 操作系统，丹尼斯·里奇在贝尔电</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Go语言第一个HelloWorld程序</title>
+        <link>http://localhost:1313/cn/posts/golang/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/golang/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</guid>
+        <description>Go语言第一个HelloWorld程序 Go语言简介 Go，又称 Golang，是一个 Google 公司开源的静态的、编译型编程语言。 Go语言起源于 2007 年，并在</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -202,15 +242,15 @@
       
       <item>
         <title>PHP与Node中使用bcrypt算法存储密码</title>
-        <link>https://wangyongtao.github.io/cn/posts/php-bcrypt/</link>
+        <link>http://localhost:1313/cn/posts/php/php-bcrypt/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/php-bcrypt/</guid>
+        <guid>http://localhost:1313/cn/posts/php/php-bcrypt/</guid>
         <description>在软件开发过程中，对于如密码这样的信息，我们不能直接以明文的方式存储在数据库中 在Node中我们若要利用bcrypt算法对数据加密，可以使用第</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/php.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/php-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -250,15 +290,15 @@
       
       <item>
         <title>PostgreSQL入门-安装与基本使用（Ubuntu）</title>
-        <link>https://wangyongtao.github.io/cn/posts/postgresql-quick-start/</link>
+        <link>http://localhost:1313/cn/posts/postgresql-quick-start/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/postgresql-quick-start/</guid>
+        <guid>http://localhost:1313/cn/posts/postgresql-quick-start/</guid>
         <description>PostgreSQL入门-安装与基本使用（Ubuntu） PostgreSQL 是一个免费的对象-关系数据库服务器(ORDBMS)，号称是 &amp;ldquo;世界上最先</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/postgresql-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/postgresql-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -297,12 +337,12 @@
       </item>
       
       <item>
-        <title>spring-rest-api</title>
-        <link>https://wangyongtao.github.io/cn/posts/rust-quick-start/</link>
+        <title>rust-quick-start</title>
+        <link>http://localhost:1313/cn/posts/rust-quick-start/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/rust-quick-start/</guid>
+        <guid>http://localhost:1313/cn/posts/rust-quick-start/</guid>
         <description>Rust 是一种静态类型的编译语言，满足了大多数用户使用 C 或 C++ 能够实现的目标。 Rust 语言是内存安全且与操作系统无关的，这意味着它可以在任何计算机上运行。</description>
         
         <dc:creator>WYT</dc:creator>
@@ -338,11 +378,11 @@
       
       <item>
         <title>spring-rest-api</title>
-        <link>https://wangyongtao.github.io/cn/posts/spring-rest-api/</link>
+        <link>http://localhost:1313/cn/posts/spring-rest-api/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/spring-rest-api/</guid>
+        <guid>http://localhost:1313/cn/posts/spring-rest-api/</guid>
         <description>1 2 3 4 $ sw_vers ProductName: Mac OS X ProductVersion: 10.15.1 BuildVersion: 19B88 1 2 3 4 $ java --version java 13.0.1 2019-10-15 Java(TM) SE Runtime Environment (build 13.0.1+9) Java HotSpot(TM) 64-Bit Server VM (build 13.0.1+9, mixed mode, sharing) 安装 SDKMAN 1 $ curl -s &amp;#34;https://get.sdkman.io&amp;#34; | bash 查看 sdk list gradle 命令查看 gradle 的版本: 1 $ sdk list gradle 查</description>
         
         <dc:creator>WYT</dc:creator>
@@ -373,16 +413,16 @@
       </item>
       
       <item>
-        <title>第一个c语言程序</title>
-        <link>https://wangyongtao.github.io/cn/posts/c-quick-start/</link>
+        <title>URL链接中的utm_source、utm_medium简析</title>
+        <link>http://localhost:1313/cn/posts/url%E9%93%BE%E6%8E%A5%E4%B8%AD%E7%9A%84utm_source%E7%AE%80%E6%9E%90/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/c-quick-start/</guid>
-        <description>C语言是一门面向过程的的通用程序设计语言，广泛应用于底层开发。 C语言是普适性最强的一种计算机程序编辑语言，它不仅可以发挥出高级编程语言的功用</description>
+        <guid>http://localhost:1313/cn/posts/url%E9%93%BE%E6%8E%A5%E4%B8%AD%E7%9A%84utm_source%E7%AE%80%E6%9E%90/</guid>
+        <description>URL链接中的utm_source,utm_medium简析 UTM stood for the Urchin Traffic Monitor, which was part of a software called “Urchin WebAnalytics Software” released in 1998. http://wang123.net/ads?utm_source=cost&amp;utm_campaign=v2ex&amp;utm_medium=display&amp;utm_content=shengji 每个参数的</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/clang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/www-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -400,6 +440,126 @@
           
             
               <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>第一个c语言程序</title>
+        <link>http://localhost:1313/cn/posts/c-quick-start/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/c-quick-start/</guid>
+        <description>C语言是一门面向过程的的通用程序设计语言，广泛应用于底层开发。 C语言是普适性最强的一种计算机程序编辑语言，它不仅可以发挥出高级编程语言的功用</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/clang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>消息队列 RabbitMQ 的安装与配置(Docker)</title>
+        <link>http://localhost:1313/cn/posts/rabbitmq-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-rabbitmq-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AEdocker/</link>
+        <pubDate>Thu, 08 Feb 2018 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 08 Feb 2018 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/rabbitmq-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-rabbitmq-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AEdocker/</guid>
+        <description>消息队列 RabbitMQ 的安装与配置(Docker) 打开 RabbitMQ 官网, 点击进入 [Docs] 菜单，我们可以看到有多个平台的不同安装文档介绍，我们只要选择和我们系统平台对应的</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Laravel-缓存标签(Cache::tags)的使用</title>
+        <link>http://localhost:1313/cn/posts/php/laravel-%E7%BC%93%E5%AD%98%E6%A0%87%E7%AD%BEcache-tags%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Thu, 13 Apr 2017 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 13 Apr 2017 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/laravel-%E7%BC%93%E5%AD%98%E6%A0%87%E7%AD%BEcache-tags%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+        <description>Laravel-缓存标签(Cache::tags)的使用 Laravel 缓存系统支持多种驱动方式，包括 file, database, Redis, Memcached 等， 也可以自定义一些其他的驱动方式。 在使用 Redis</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/laravel-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
             
           
         

@@ -61,13 +61,13 @@ typeIcon = "🎯"
 
 # whoami
 myname = "WYT"
-email = "wangtom365 # qq.com"
+email = "wangtom365 # foxmail . com"
 whoami = "Web Developer"
 bioImageUrl = ""
 useGravatar = false
 location = "Shanghai, China"
-organization = "PHP,Go,Js,Angular,Laravel"
-link = "https://wangyogntao.github.io/"
+organization = "Go,PHP,Js,Angular,Laravel"
+link = "https://wangyongtao.net"
 
 # sidebar
 enableBio = true

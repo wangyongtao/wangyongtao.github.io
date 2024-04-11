@@ -7,30 +7,114 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>QuickStart on Wang Yong Tao</title>
-    <link>https://wangyongtao.github.io/cn/categories/quickstart/</link>
+    <link>http://localhost:1313/cn/categories/quickstart/</link>
     <description>Recent content in QuickStart on Wang Yong Tao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <managingEditor>wangtom365 # qq.com (WYT)</managingEditor>
-    <webMaster>wangtom365 # qq.com (WYT)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 17:00:00 +0800</lastBuildDate>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 08 Jun 2021 17:00:00 +0800</lastBuildDate>
     
-        <atom:link href="https://wangyongtao.github.io/cn/categories/quickstart/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/cn/categories/quickstart/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>Go语言第一个HelloWorld程序</title>
-        <link>https://wangyongtao.github.io/cn/posts/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</link>
-        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
-        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</guid>
-        <description>Go语言第一个HelloWorld程序 Go，又称 Golang，是一个Google于2009年11月开源的编译型编程语言。 目前， Go语言最新版</description>
+        <title>Docker Quick Start</title>
+        <link>http://localhost:1313/cn/posts/linux/docker-quick-start/</link>
+        <pubDate>Tue, 08 Jun 2021 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Tue, 08 Jun 2021 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/linux/docker-quick-start/</guid>
+        <description>Docker Quick Start</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/docker-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Go语言基本语言与C语言对比</title>
+        <link>http://localhost:1313/cn/posts/golang/golang-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95go-vs-c/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/golang/golang-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95go-vs-c/</guid>
+        <description>Go语言基本语言与C语言对比 C语言与Go语言简介 C 语言是一种面向过程式的编程语言。1972 年，为了移植与开发 UNIX 操作系统，丹尼斯·里奇在贝尔电</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Go语言第一个HelloWorld程序</title>
+        <link>http://localhost:1313/cn/posts/golang/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/golang/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</guid>
+        <description>Go语言第一个HelloWorld程序 Go语言简介 Go，又称 Golang，是一个 Google 公司开源的静态的、编译型编程语言。 Go语言起源于 2007 年，并在</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -62,15 +146,15 @@
       
       <item>
         <title>PostgreSQL入门-安装与基本使用（Ubuntu）</title>
-        <link>https://wangyongtao.github.io/cn/posts/postgresql-quick-start/</link>
+        <link>http://localhost:1313/cn/posts/postgresql-quick-start/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/postgresql-quick-start/</guid>
+        <guid>http://localhost:1313/cn/posts/postgresql-quick-start/</guid>
         <description>PostgreSQL入门-安装与基本使用（Ubuntu） PostgreSQL 是一个免费的对象-关系数据库服务器(ORDBMS)，号称是 &amp;ldquo;世界上最先</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/postgresql-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/postgresql-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -109,12 +193,12 @@
       </item>
       
       <item>
-        <title>spring-rest-api</title>
-        <link>https://wangyongtao.github.io/cn/posts/rust-quick-start/</link>
+        <title>rust-quick-start</title>
+        <link>http://localhost:1313/cn/posts/rust-quick-start/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/rust-quick-start/</guid>
+        <guid>http://localhost:1313/cn/posts/rust-quick-start/</guid>
         <description>Rust 是一种静态类型的编译语言，满足了大多数用户使用 C 或 C++ 能够实现的目标。 Rust 语言是内存安全且与操作系统无关的，这意味着它可以在任何计算机上运行。</description>
         
         <dc:creator>WYT</dc:creator>
@@ -150,11 +234,11 @@
       
       <item>
         <title>spring-rest-api</title>
-        <link>https://wangyongtao.github.io/cn/posts/spring-rest-api/</link>
+        <link>http://localhost:1313/cn/posts/spring-rest-api/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/spring-rest-api/</guid>
+        <guid>http://localhost:1313/cn/posts/spring-rest-api/</guid>
         <description>1 2 3 4 $ sw_vers ProductName: Mac OS X ProductVersion: 10.15.1 BuildVersion: 19B88 1 2 3 4 $ java --version java 13.0.1 2019-10-15 Java(TM) SE Runtime Environment (build 13.0.1+9) Java HotSpot(TM) 64-Bit Server VM (build 13.0.1+9, mixed mode, sharing) 安装 SDKMAN 1 $ curl -s &amp;#34;https://get.sdkman.io&amp;#34; | bash 查看 sdk list gradle 命令查看 gradle 的版本: 1 $ sdk list gradle 查</description>
         
         <dc:creator>WYT</dc:creator>
@@ -185,16 +269,16 @@
       </item>
       
       <item>
-        <title>第一个c语言程序</title>
-        <link>https://wangyongtao.github.io/cn/posts/c-quick-start/</link>
+        <title>URL链接中的utm_source、utm_medium简析</title>
+        <link>http://localhost:1313/cn/posts/url%E9%93%BE%E6%8E%A5%E4%B8%AD%E7%9A%84utm_source%E7%AE%80%E6%9E%90/</link>
         <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
-        <author>wangtom365 # qq.com (WYT)</author>
+        <author>wangtom365 # foxmail . com (WYT)</author>
         <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
-        <guid>https://wangyongtao.github.io/cn/posts/c-quick-start/</guid>
-        <description>C语言是一门面向过程的的通用程序设计语言，广泛应用于底层开发。 C语言是普适性最强的一种计算机程序编辑语言，它不仅可以发挥出高级编程语言的功用</description>
+        <guid>http://localhost:1313/cn/posts/url%E9%93%BE%E6%8E%A5%E4%B8%AD%E7%9A%84utm_source%E7%AE%80%E6%9E%90/</guid>
+        <description>URL链接中的utm_source,utm_medium简析 UTM stood for the Urchin Traffic Monitor, which was part of a software called “Urchin WebAnalytics Software” released in 1998. http://wang123.net/ads?utm_source=cost&amp;utm_campaign=v2ex&amp;utm_medium=display&amp;utm_content=shengji 每个参数的</description>
         
         <dc:creator>WYT</dc:creator>
-        <media:content url="https://wangyongtao.github.io/images/common/clang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/common/www-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -219,6 +303,622 @@
           
             
               <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>第一个c语言程序</title>
+        <link>http://localhost:1313/cn/posts/c-quick-start/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/c-quick-start/</guid>
+        <description>C语言是一门面向过程的的通用程序设计语言，广泛应用于底层开发。 C语言是普适性最强的一种计算机程序编辑语言，它不仅可以发挥出高级编程语言的功用</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/clang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+        
+        
+          
+            
+              <category>Rust</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Golang-使用strconv包string/int/int64类型转换</title>
+        <link>http://localhost:1313/cn/posts/golang/golang-%E4%BD%BF%E7%94%A8strconv%E5%8C%85string-int-int64%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</link>
+        <pubDate>Tue, 30 Apr 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Tue, 30 Apr 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/golang/golang-%E4%BD%BF%E7%94%A8strconv%E5%8C%85string-int-int64%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</guid>
+        <description>Go不会对数据进行隐式的类型转换，只能手动去执行转换操作。 strconv 包提供了简单数据类型之间的类型转换功能。 以下是常用的一些转换函数： 将 int 类型转成 string</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>NestJS快速入门-安装与配置</title>
+        <link>http://localhost:1313/cn/posts/nestjs-quick-start/</link>
+        <pubDate>Tue, 18 Dec 2018 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Tue, 18 Dec 2018 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/nestjs-quick-start/</guid>
+        <description>Nest (NestJS)是一个用于构建高效、可伸缩的 Node.js 服务器端框架。 NestJS 默认使用 JavaScript 的超集 TypeScript 进行开发。 环境准备 查看node和npm版本: 1 2 3 4 5 $ node</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/www-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>NestJS</category>
+            
+          
+        
+        
+          
+            
+              <category>NestJS</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>NestJS Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>消息队列 RabbitMQ 的安装与配置(Docker)</title>
+        <link>http://localhost:1313/cn/posts/rabbitmq-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-rabbitmq-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AEdocker/</link>
+        <pubDate>Thu, 08 Feb 2018 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 08 Feb 2018 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/rabbitmq-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-rabbitmq-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AEdocker/</guid>
+        <description>消息队列 RabbitMQ 的安装与配置(Docker) 打开 RabbitMQ 官网, 点击进入 [Docs] 菜单，我们可以看到有多个平台的不同安装文档介绍，我们只要选择和我们系统平台对应的</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Nginx-使用Expires缓存静态文件</title>
+        <link>http://localhost:1313/cn/posts/linux/nginx-%E4%BD%BF%E7%94%A8expires%E7%BC%93%E5%AD%98%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6/</link>
+        <pubDate>Thu, 13 Apr 2017 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 13 Apr 2017 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/linux/nginx-%E4%BD%BF%E7%94%A8expires%E7%BC%93%E5%AD%98%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6/</guid>
+        <description>Nginx-使用Expires缓存静态文件 The ngx_http_headers_module module allows adding the “Expires” and “Cache-Control” header fields, and arbitrary fields, to a response header. 1 2 3 4 Syntax: expires [modified] time; expires</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/nginx-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Nginx</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Laravel-Lumen-使用网易邮箱SMTP发送邮件</title>
+        <link>http://localhost:1313/cn/posts/php/laravel-lumen-%E4%BD%BF%E7%94%A8%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1smtp%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/</link>
+        <pubDate>Sat, 01 Apr 2017 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Sat, 01 Apr 2017 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/laravel-lumen-%E4%BD%BF%E7%94%A8%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1smtp%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/</guid>
+        <description>Laravel-Lumen-使用网易邮箱SMTP发送邮件 Laravel 是目前最流行的PHP框架，而 Lumen 是 Laravel 的精简版，主要用于后端接口开发。 在 Laravel 框架汇总，邮</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/laravel-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>CSV</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Linux-压力测试工具Siege安装与使用</title>
+        <link>http://localhost:1313/cn/posts/linux/linux-%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7siege%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Thu, 08 Sep 2016 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 08 Sep 2016 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/linux/linux-%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7siege%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+        <description>Linux-压力测试工具Siege安装与使用 Siege 是Linux/Unix下的一个WEB系统的压力测试工具。 Siege is an http load testing and benchmarking utility. 下载与安装: 下载地址</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/linux-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Siege</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PHP-如何导出CSV文件?使用Excel打开乱码怎么办?</title>
+        <link>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E5%AF%BC%E5%87%BAcsv%E6%96%87%E4%BB%B6%E4%BD%BF%E7%94%A8excel%E6%89%93%E5%BC%80%E4%B9%B1%E7%A0%81/</link>
+        <pubDate>Thu, 08 Sep 2016 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 08 Sep 2016 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E5%AF%BC%E5%87%BAcsv%E6%96%87%E4%BB%B6%E4%BD%BF%E7%94%A8excel%E6%89%93%E5%BC%80%E4%B9%B1%E7%A0%81/</guid>
+        <description>PHP-如何导出CSV文件?使用Excel打开乱码怎么办? 使用PHP代码，可以很方便的将数据导出成CSV格式的文件。 CSV格式的文件可以在 Office</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/php-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>CSV</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>MySQL-多表update-SQL语句总结</title>
+        <link>http://localhost:1313/cn/posts/mysql/mysql-%E5%A4%9A%E8%A1%A8update-sql%E8%AF%AD%E5%8F%A5%E6%80%BB%E7%BB%93/</link>
+        <pubDate>Sat, 11 Oct 2014 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Sat, 11 Oct 2014 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/mysql/mysql-%E5%A4%9A%E8%A1%A8update-sql%E8%AF%AD%E5%8F%A5%E6%80%BB%E7%BB%93/</guid>
+        <description>MySQL-多表update-SQL语句总结 假定我们有两张表: 一张表为Product表存放产品信息，其中有产品价格列Price； 另外一张表是</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/mysql-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>MySQL</category>
+            
+          
+        
+        
+          
+            
+              <category>MySQL</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>MySQL Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PHP-PHP常量详解define和const的区别?</title>
+        <link>http://localhost:1313/cn/posts/php/php-%E5%B8%B8%E9%87%8F%E8%AF%A6%E8%A7%A3define%E5%92%8Cconst%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
+        <pubDate>Mon, 29 Jul 2013 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 29 Jul 2013 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/php-%E5%B8%B8%E9%87%8F%E8%AF%A6%E8%A7%A3define%E5%92%8Cconst%E7%9A%84%E5%8C%BA%E5%88%AB/</guid>
+        <description>PHP常量详解：define和const的区别 常量是一个简单值的标识符（名字）。 如同其名称所暗示的，在脚本执行期间该值不能改变（除了所谓的魔</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/php-2.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PHP-如何以POST形式发送XML数据，PHP如何接收XML文件?</title>
+        <link>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E4%BB%A5post%E5%BD%A2%E5%BC%8F%E5%8F%91%E9%80%81xml%E6%95%B0%E6%8D%AE/</link>
+        <pubDate>Fri, 22 Mar 2013 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Fri, 22 Mar 2013 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E4%BB%A5post%E5%BD%A2%E5%BC%8F%E5%8F%91%E9%80%81xml%E6%95%B0%E6%8D%AE/</guid>
+        <description>PHP如何以POST形式发送XML数据，PHP如何接收XML文件? 发送XML文件: postXml.php 1 2 3 4 5 6 7 8 $xmlData = &amp;#34; &amp;lt;xml &amp;gt;ad775b217&amp;lt;/ToUserName&amp;gt; &amp;lt;FromUserName &amp;gt;tWy3zC3xUgQMR5coXif5SA&amp;lt;/FromUserName&amp;gt; &amp;lt;CreateTime &amp;gt;1366181013&amp;lt;/CreateTime&amp;gt; &amp;lt;MsgType &amp;gt;text&amp;lt;/MsgType &amp;gt; &amp;lt;Content &amp;gt;我的测</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/php-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PHP-如何去除字符串中的最后一个字符</title>
+        <link>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E6%8E%A5%E6%94%B6%E5%88%B0%E7%9A%84%E6%98%AF%E5%90%A6%E4%B8%BA%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%9B%BE%E7%89%87%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE/</link>
+        <pubDate>Fri, 22 Mar 2013 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Fri, 22 Mar 2013 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E6%8E%A5%E6%94%B6%E5%88%B0%E7%9A%84%E6%98%AF%E5%90%A6%E4%B8%BA%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%9B%BE%E7%89%87%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E6%8D%AE/</guid>
+        <description>PHP如何判断接收到的是否为正确的图片二进制数据 PHP检测图片是否损坏，PHP检测图片是否正常? (一)、如果存在GD库，可以使用 imagecreatefromstring () 函数： 格</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/php-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>JS-关于jQuery的AJAX不兼容IE的解决办法</title>
+        <link>http://localhost:1313/cn/posts/js-%E5%85%B3%E4%BA%8Ejquery%E7%9A%84ajax%E4%B8%8D%E5%85%BC%E5%AE%B9ie%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</link>
+        <pubDate>Fri, 02 Nov 2012 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Fri, 02 Nov 2012 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/js-%E5%85%B3%E4%BA%8Ejquery%E7%9A%84ajax%E4%B8%8D%E5%85%BC%E5%AE%B9ie%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</guid>
+        <description>关于jQuery的AJAX不兼容IE的解决办法 在使用jQuery的AJAX：get方法去检测数据是否存在时，会发现IE会出现不兼容的情况。 用</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/www-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>JavaScritp</category>
+            
+          
+        
+        
+          
+            
+              <category>JavaScritp</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>JavaScritp</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PHP-如何不使用临时变量来交换两个数值变量</title>
+        <link>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E4%B8%8D%E4%BD%BF%E7%94%A8%E4%B8%B4%E6%97%B6%E5%8F%98%E9%87%8F%E6%9D%A5%E4%BA%A4%E6%8D%A2%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%80%BC%E5%8F%98%E9%87%8F/</link>
+        <pubDate>Fri, 01 Jun 2012 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Fri, 01 Jun 2012 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E4%B8%8D%E4%BD%BF%E7%94%A8%E4%B8%B4%E6%97%B6%E5%8F%98%E9%87%8F%E6%9D%A5%E4%BA%A4%E6%8D%A2%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%80%BC%E5%8F%98%E9%87%8F/</guid>
+        <description>PHP-如何不使用临时变量来交换两个数值变量？ 如何在PHP中不使用临时变量来交换两个数值变量？ 解析如下： 一般情况下，交换两个变量的值应该使用</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/php-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PHP-如何去除字符串中的最后一个字符</title>
+        <link>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E5%8E%BB%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6/</link>
+        <pubDate>Fri, 01 Jun 2012 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Fri, 01 Jun 2012 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E5%8E%BB%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6/</guid>
+        <description>PHP如何去除字符串中的最后一个字符呢？ 可以使用语言提供的函数 trim 或 substr等。 比如：字符串 “aaaa,bbb,ccc,ddd,eee,”</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/php-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
             
           
         

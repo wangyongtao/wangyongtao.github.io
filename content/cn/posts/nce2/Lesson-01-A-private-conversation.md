@@ -1,5 +1,5 @@
 ---
-title: 新概念英语2: Lesson 1 A private conversation
+title: 新概念英语2：Lesson 1 A private conversation
 date: 2019-08-19T17:00:00+08:00
 # description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 draft: false
