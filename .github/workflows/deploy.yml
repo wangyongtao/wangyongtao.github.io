@@ -24,6 +24,7 @@ jobs:
           # extended: true
 
       - name: Build
+        uses: gha-utilities/sass-build@v0.6.0 
         run: hugo --minify
 
       - name: Deploy
