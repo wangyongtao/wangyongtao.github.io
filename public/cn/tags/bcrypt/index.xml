@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bcrypt on WangYongTao</title>
+    <link>http://localhost:1313/cn/tags/bcrypt/</link>
+    <description>Recent content in Bcrypt on WangYongTao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 19 Aug 2019 17:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/cn/tags/bcrypt/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>PHP与Node中使用bcrypt算法存储密码</title>
+        <link>http://localhost:1313/cn/posts/php/php-bcrypt/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/php-bcrypt/</guid>
+        <description>在软件开发过程中，对于如密码这样的信息，我们不能直接以明文的方式存储在数据库中 在Node中我们若要利用bcrypt算法对数据加密，可以使用第</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/php-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>Node</category>
+            
+          
+            
+              <category>bcrypt</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PostgreSQL入门-安装与基本使用（Ubuntu）</title>
+        <link>http://localhost:1313/cn/posts/postgresql-quick-start/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/postgresql-quick-start/</guid>
+        <description>PostgreSQL入门-安装与基本使用（Ubuntu） PostgreSQL 是一个免费的对象-关系数据库服务器(ORDBMS)，号称是 &amp;ldquo;世界上最先</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/postgresql-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>Node</category>
+            
+          
+            
+              <category>bcrypt</category>
+            
+          
+        
+        
+          
+            
+              <category>Databases</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

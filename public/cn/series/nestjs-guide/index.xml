@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>NestJS Guide on WangYongTao</title>
+    <link>http://localhost:1313/cn/series/nestjs-guide/</link>
+    <description>Recent content in NestJS Guide on WangYongTao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 18 Dec 2018 17:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/cn/series/nestjs-guide/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>NestJS快速入门-安装与配置</title>
+        <link>http://localhost:1313/cn/posts/nestjs-quick-start/</link>
+        <pubDate>Tue, 18 Dec 2018 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Tue, 18 Dec 2018 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/nestjs-quick-start/</guid>
+        <description>Nest (NestJS)是一个用于构建高效、可伸缩的 Node.js 服务器端框架。 NestJS 默认使用 JavaScript 的超集 TypeScript 进行开发。 环境准备 查看node和npm版本: 1 2 3 4 5 $ node</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/www-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>NestJS</category>
+            
+          
+        
+        
+          
+            
+              <category>NestJS</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>NestJS Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

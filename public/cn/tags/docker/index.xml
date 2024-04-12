@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Docker on WangYongTao</title>
+    <link>http://localhost:1313/cn/tags/docker/</link>
+    <description>Recent content in Docker on WangYongTao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 08 Jun 2021 17:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/cn/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Docker Quick Start</title>
+        <link>http://localhost:1313/cn/posts/linux/docker-quick-start/</link>
+        <pubDate>Tue, 08 Jun 2021 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Tue, 08 Jun 2021 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/linux/docker-quick-start/</guid>
+        <description>Docker Quick Start</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/docker-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Docker Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

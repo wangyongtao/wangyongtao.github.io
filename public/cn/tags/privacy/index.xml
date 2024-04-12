@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Privacy on WangYongTao</title>
+    <link>http://localhost:1313/cn/tags/privacy/</link>
+    <description>Recent content in Privacy on WangYongTao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/cn/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Laravel-使用macro方法来扩展基础类的功能</title>
+        <link>http://localhost:1313/cn/posts/php/laravel-%E4%BD%BF%E7%94%A8macro%E6%96%B9%E6%B3%95%E6%9D%A5%E6%89%A9%E5%B1%95%E5%9F%BA%E7%A1%80%E7%B1%BB%E7%9A%84%E5%8A%9F%E8%83%BD/</link>
+        <pubDate>Thu, 13 Apr 2017 12:00:06 +0900</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 13 Apr 2017 12:00:06 +0900</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/laravel-%E4%BD%BF%E7%94%A8macro%E6%96%B9%E6%B3%95%E6%9D%A5%E6%89%A9%E5%B1%95%E5%9F%BA%E7%A1%80%E7%B1%BB%E7%9A%84%E5%8A%9F%E8%83%BD/</guid>
+        <description>Laravel-使用macro方法来扩展基础类的功能 在一般编程中，我们要扩展一个基础类，我们需要进行继承才能扩充。 然而Laravel利用PH</description>
+        
+        <dc:creator>Lee</dc:creator>
+        <media:content url="http://localhost:1313/images/common/laravel-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>shortcodes</category>
+            
+          
+            
+              <category>privacy</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

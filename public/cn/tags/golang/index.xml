@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Golang on WangYongTao</title>
+    <link>http://localhost:1313/cn/tags/golang/</link>
+    <description>Recent content in Golang on WangYongTao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 19 Mar 2021 17:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/cn/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Golang中string和int类型相互转换</title>
+        <link>http://localhost:1313/cn/posts/golang/golang%E4%B8%ADstring%E5%92%8Cint%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</link>
+        <pubDate>Fri, 19 Mar 2021 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Fri, 19 Mar 2021 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/golang/golang%E4%B8%ADstring%E5%92%8Cint%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</guid>
+        <description>Golang中string和int类型相互转换 string 转成 int string 转成 int： 1 int, err := strconv.Atoi(string) string 转成 int64： 1 int64, err := strconv.ParseInt(string, 10, 64) string 转成 uint64： 1 uint64, err := strconv.ParseUint(string,</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Go语言基本语言与C语言对比</title>
+        <link>http://localhost:1313/cn/posts/golang/golang-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95go-vs-c/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/golang/golang-%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95go-vs-c/</guid>
+        <description>Go语言基本语言与C语言对比 C语言与Go语言简介 C 语言是一种面向过程式的编程语言。1972 年，为了移植与开发 UNIX 操作系统，丹尼斯·里奇在贝尔电</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Go语言第一个HelloWorld程序</title>
+        <link>http://localhost:1313/cn/posts/golang/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</link>
+        <pubDate>Mon, 19 Aug 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Mon, 19 Aug 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/golang/go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E4%B8%AAhelloworld%E7%A8%8B%E5%BA%8F/</guid>
+        <description>Go语言第一个HelloWorld程序 Go语言简介 Go，又称 Golang，是一个 Google 公司开源的静态的、编译型编程语言。 Go语言起源于 2007 年，并在</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Golang-使用strconv包string/int/int64类型转换</title>
+        <link>http://localhost:1313/cn/posts/golang/golang-%E4%BD%BF%E7%94%A8strconv%E5%8C%85string-int-int64%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</link>
+        <pubDate>Tue, 30 Apr 2019 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Tue, 30 Apr 2019 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/golang/golang-%E4%BD%BF%E7%94%A8strconv%E5%8C%85string-int-int64%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/</guid>
+        <description>Go不会对数据进行隐式的类型转换，只能手动去执行转换操作。 strconv 包提供了简单数据类型之间的类型转换功能。 以下是常用的一些转换函数： 将 int 类型转成 string</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Golang Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>消息队列 RabbitMQ 的安装与配置(Docker)</title>
+        <link>http://localhost:1313/cn/posts/rabbitmq-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-rabbitmq-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AEdocker/</link>
+        <pubDate>Thu, 08 Feb 2018 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 08 Feb 2018 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/rabbitmq-%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-rabbitmq-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AEdocker/</guid>
+        <description>消息队列 RabbitMQ 的安装与配置(Docker) 打开 RabbitMQ 官网, 点击进入 [Docs] 菜单，我们可以看到有多个平台的不同安装文档介绍，我们只要选择和我们系统平台对应的</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/golang-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Laravel-缓存标签(Cache::tags)的使用</title>
+        <link>http://localhost:1313/cn/posts/php/laravel-%E7%BC%93%E5%AD%98%E6%A0%87%E7%AD%BEcache-tags%E7%9A%84%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Thu, 13 Apr 2017 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 13 Apr 2017 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/laravel-%E7%BC%93%E5%AD%98%E6%A0%87%E7%AD%BEcache-tags%E7%9A%84%E4%BD%BF%E7%94%A8/</guid>
+        <description>Laravel-缓存标签(Cache::tags)的使用 Laravel 缓存系统支持多种驱动方式，包括 file, database, Redis, Memcached 等， 也可以自定义一些其他的驱动方式。 在使用 Redis</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/laravel-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Golang</category>
+            
+          
+        
+        
+          
+            
+              <category>themes</category>
+            
+          
+            
+              <category>syntax</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

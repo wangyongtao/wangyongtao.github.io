@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>CSV on WangYongTao</title>
+    <link>http://localhost:1313/cn/tags/csv/</link>
+    <description>Recent content in CSV on WangYongTao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <managingEditor>wangtom365 # foxmail . com (WYT)</managingEditor>
+    <webMaster>wangtom365 # foxmail . com (WYT)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Apr 2017 17:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/cn/tags/csv/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Laravel-Lumen-使用网易邮箱SMTP发送邮件</title>
+        <link>http://localhost:1313/cn/posts/php/laravel-lumen-%E4%BD%BF%E7%94%A8%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1smtp%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/</link>
+        <pubDate>Sat, 01 Apr 2017 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Sat, 01 Apr 2017 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/laravel-lumen-%E4%BD%BF%E7%94%A8%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1smtp%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/</guid>
+        <description>Laravel-Lumen-使用网易邮箱SMTP发送邮件 Laravel 是目前最流行的PHP框架，而 Lumen 是 Laravel 的精简版，主要用于后端接口开发。 在 Laravel 框架汇总，邮</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/laravel-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>CSV</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>PHP-如何导出CSV文件?使用Excel打开乱码怎么办?</title>
+        <link>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E5%AF%BC%E5%87%BAcsv%E6%96%87%E4%BB%B6%E4%BD%BF%E7%94%A8excel%E6%89%93%E5%BC%80%E4%B9%B1%E7%A0%81/</link>
+        <pubDate>Thu, 08 Sep 2016 17:00:00 +0800</pubDate>
+        <author>wangtom365 # foxmail . com (WYT)</author>
+        <atom:modified>Thu, 08 Sep 2016 17:00:00 +0800</atom:modified>
+        <guid>http://localhost:1313/cn/posts/php/php-%E5%A6%82%E4%BD%95%E5%AF%BC%E5%87%BAcsv%E6%96%87%E4%BB%B6%E4%BD%BF%E7%94%A8excel%E6%89%93%E5%BC%80%E4%B9%B1%E7%A0%81/</guid>
+        <description>PHP-如何导出CSV文件?使用Excel打开乱码怎么办? 使用PHP代码，可以很方便的将数据导出成CSV格式的文件。 CSV格式的文件可以在 Office</description>
+        
+        <dc:creator>WYT</dc:creator>
+        <media:content url="http://localhost:1313/images/common/php-1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>CSV</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP</category>
+            
+          
+            
+              <category>QuickStart</category>
+            
+          
+        
+        
+          
+            
+              <category>PHP Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
