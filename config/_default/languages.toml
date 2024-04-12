@@ -1,19 +1,19 @@
 [cn]
-  title = "Wang Yong Tao"
+  title = "WangYongTao"
   languageName = "中文Chinese"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/cn"
   
 [en]
-  title = "Wang Yong Tao"
+  title = "WangYongTao"
   languageName = "English"
   weight = 2
   languagedir = "ltr"
   contentdir = "content/en"
 
 [ko]
-  title = "Wang Yong Tao"
+  title = "WangYongTao"
   languageName = "Korean한국어"
   weight = 3
   languagedir = "ltr"
